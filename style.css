@@ -1,0 +1,18 @@
+body{
+  background: plum url("https://bit.ly/3h2VSOf") 100% 0%;
+  background-repeat: no-repeat;
+  background-size: 400px;
+  background-attachment: scroll;
+}
+
+@media only screen and ( max-width: 600px ) {
+
+body{ 
+Background-color: lightblue;
+color: darkblue
+}
+
+svg{
+  border: solid yellow 5px;
+  opacity: 0.5;
+}
