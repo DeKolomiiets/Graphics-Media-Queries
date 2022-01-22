@@ -16,3 +16,8 @@ svg{
   border: solid yellow 5px;
   opacity: 0.5;
 }
+
+p{
+  cursor: text;
+  text-indent: 20px;
+}
